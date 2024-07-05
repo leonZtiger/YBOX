@@ -14,7 +14,7 @@ SSD, 130kb.
 RAM, 130kb(SRAM).
 
 
-## Todo
+## Hardware Todos
 
 - [ ]  Create a ALU-module  
 - [ ]  Create a Program counter-module  
