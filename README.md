@@ -5,13 +5,13 @@ A game console made from scratch
 The most knock-off Xbox you can find. This game console consist of a processor and a video-card made from scratch.
 
 ## Specs
-1Mhz
-Up-to 5 general purpose registers
+1Mhz.
+Up-to 5 general purpose registers.
 ALU, logic: &, or, xor, bitshift. Arithmetic: +, -, inc, dec.
-16-bit main data bus
-VGA-640x480
-SSD, 130kb
-RAM, 130kb(SRAM)
+16-bit main data bus.
+VGA-640x480.
+SSD, 130kb.
+RAM, 130kb(SRAM).
 
 
 ## Todo
