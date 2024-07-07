@@ -13,8 +13,11 @@ VGA-640x480.
 SSD, 130kb.
 RAM, 130kb(SRAM).
 
-### example of a register car
-![alt text](https://github.com/leonZtiger/YBOX/edit/main/reg_pcb.png)
+### example of a register card
+![register](/reg_pcb.png)
+
+## How to get you started
+Currently the pcbs are not done, so specific instructions are not available.
 
 ## Hardware Todos
 
