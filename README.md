@@ -21,13 +21,16 @@ Currently the pcbs are not done, so specific instructions are not available.
 
 ## Hardware Todos
 
-- [ ]  Create a Video-card 
+- [ ] Create a Serial port for the computer
+- [ ] Build compiler for custom langues
+- [ ] Build assembly translator software
+- [ ] Build software for uploading instruction set to control unit
+- [ ] Design instruction set
 
 ### In Progress
 
-- [ ]  Create a Motherboard  
-- [ ]  Create a power unit
-- [ ]  Create a Control unit-module
+- [ ]  Create a Video-card 
+
 
 ### Done ✓
 - [x]  Create a clock-module
@@ -35,4 +38,7 @@ Currently the pcbs are not done, so specific instructions are not available.
 - [x]  Create a Program counter-module  
 - [x]  Create a RAM-module  
 - [x]  Create a SSD-module  
-- [x]  Create a register-module 
+- [x]  Create a register-module
+- [x]  Create a Motherboard  
+- [x]  Create a power unit
+- [x]  Create a Control unit-module
