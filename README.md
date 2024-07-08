@@ -19,7 +19,7 @@ RAM, 130kb(SRAM).
 ## How to get you started
 Currently the pcbs are not done, so specific instructions are not available.
 
-## Hardware Todos
+## Todos
 
 - [ ] Create a Serial port for the computer
 - [ ] Build compiler for custom langues
